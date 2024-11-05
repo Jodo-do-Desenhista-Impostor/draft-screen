@@ -1,0 +1,22 @@
+.canvas-container {
+    overflow: hidden;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+.controls {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.color-picker, .brush-size {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+button {
+    margin: 5px;
+}
