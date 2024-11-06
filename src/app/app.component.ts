@@ -78,6 +78,6 @@ export class AppComponent {
   }
 
   routeToConfig() {
-    window.location.href = "/config"
+    window.location.href = "/game"
   }
 }
